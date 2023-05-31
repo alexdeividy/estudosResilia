@@ -1,0 +1,18 @@
+'''No mesmo arquivo .py, desenvolva uma classe Pesquisa com os seguintes requisitos:
+Tenha os atributos: nome e listaEntrevistados
+Tenha um método imprimirEntrevistados que vai chamar a função imprimirDados de cada
+um dos entrevistados que forem adicionados a uma pesquisa criada.'''
+
+class Pesquisa():
+    nome = ''
+    listaEntrevistados = []
+
+
+    def imprimirEntrevistados(self, nomes,listaEntrevistados):
+        for entrevistado,nome in zip(listaEntrevistados,nomes):
+            print(entrevistado.imprimirDados())
+            print(f'Nome: {nome}')
+
+
+imprimir=Pesquisa()
+imprimir.imprimirEntrevistados(['joão','marcos'],[entrevistado,entrevistado1])

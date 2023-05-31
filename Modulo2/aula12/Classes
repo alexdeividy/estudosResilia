@@ -1,0 +1,11 @@
+class Lampada():
+    cor = "amarela"
+    acesa = False
+    def acender(self):
+        if self.acesa == False:
+            self.acesa = True
+
+lampada = Lampada()
+print(lampada.acesa)
+lampada.acender()
+print(lampada.acesa)

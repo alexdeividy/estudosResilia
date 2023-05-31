@@ -1,0 +1,10 @@
+# frase = str("X-DSPAM-Confidence:0.8475")
+# indice = frase.find(":")
+# print("Seu índice é:", indice)
+# frase2 = float(frase[19:])
+# print(frase2, "Múltiplicado por 100:", frase2 * 100)
+
+frase = str("X-DSPAM-Confidence:0.8475")
+indice = frase.find(":")
+frase2 = float(frase[indice+1:])
+print(frase2, "Múltiplicado por 100:", frase2 * 100)
