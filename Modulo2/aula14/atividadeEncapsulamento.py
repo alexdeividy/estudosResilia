@@ -1,17 +1,17 @@
 class Pessoa():
     def __init__(self, nome, cpf):
-        self._nome = nome
-        self._cpf = cpf
+        self.__nome = nome
+        self.__cpf = cpf
 
 # Getters and Setters #
     def get_nome(self):
-        return self._nome
+        return self.__nome
     def set_nome(self, nome):
-        self._nome = nome
+        self.__nome = nome
     def get_cpf(self):
-        return self._cpf
+        return self.__cpf
     def set_cpf(self, cpf):
-        self._cpf = cpf
+        self.__cpf = cpf
 
 # Criacao dos objetos, pessoa1, e pessoa2
 pessoa1 = Pessoa("Alex", "999.999.999-99")
