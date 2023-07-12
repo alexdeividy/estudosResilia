@@ -1,0 +1,6 @@
+select pi.*,(
+  select max(p.data_pedido) 
+  from tb_pedido p FULL OUTER JOIN tb_pedido_pizza pp using(id_pedido) 
+  where pp.id_pizza = pi.id_pizza) as ultimo_pedido 
+from tb_pizza pi 
+ORDER BY pi.id_pizza
