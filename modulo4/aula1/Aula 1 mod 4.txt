@@ -1,0 +1,68 @@
+nome = input ('Digite o nome')
+print (f'Bem vindo {nome}')
+
+#COLAB
+
+
+
+##subtitulo
+
+_nome_
+
+*nome*
+
+**nome**
+
+![MEU LEÃO](https://img.freepik.com/fotos-gratis/imagem-aproximada-da-cabeca-de-um-lindo-leao_181624-35855.jpg?w=2000)
+
+[LINK](https://img.freepik.com/fotos-gratis/imagem-aproximada-da-cabeca-de-um-lindo-leao_181624-35855.jpg?w=2000)
+
+Listas não ordenadas:
+- Primeiro Item
++ Segundo Item
+* Terceiro Item
+
+
+Listas ordenadas
+
+1. primeiro item
+2. segundo item
+3. terceiro item
+
+
+Criando uma linha horizontal
+
+
+---
+
+
+
+
+
+a = 2
+
+print (a)
+
+
+
+# <font color = purple> <font size = 20> **COLABORANDO : Escreva um códigoque faça a soma de dois valores e imprima o resultado**
+
+a = 1
+b = 2
+soma = a + b
+print (soma)
+
+# <font color = yellow> <font size = 0.50> _**COLABORANDO : Escreva um códigoque faça a subtração de dois valores e imprima o resultado**_
+
+
+subtracao = 10 - 5
+print (subtracao)
+
+import pandas as pd
+
+
+d = {'coluna1':[2,2], 'coluna2':[3,3]}
+print(d)
+
+data = pd.DataFrame(d)
+data

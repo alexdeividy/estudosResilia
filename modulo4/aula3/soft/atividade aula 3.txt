@@ -1,0 +1,37 @@
+1 - O que é SCRUM:
+A metodologia Scrum é uma excelente alternativa para realizar 
+projetos complexos na empresa. Baseada nos princípios dos métodos ágeis, 
+ela tem como objetivo reduzir o tempo de entrega de produtos 
+e se adaptar a mudanças com maior facilidade durante as etapas produtivas.
+
+2 - O que é Kanban:
+O termo “Kanban” é de origem japonesa e significa “sinalização” ou “cartão”,
+e propõe o uso de cartões (post-its) para indicar e acompanhar o andamento 
+da produção dentro da indústria. Trata-se de um sistema visual que busca 
+gerenciar o trabalho conforme ele se move pelo processo.
+
+3 - Como se relacionam:
+Pelo fato de tanto o Kanban quanto o Scrum serem Metodologias Ágeis, 
+compartilham das mesmas bases: Utilizam a transparência para garantir 
+um processo melhor. Dividem o trabalho em partes. 
+Tem foco na entrega rápida e frequente do software.
+
+
+4 - Quais as diferenças:
+O Kanban é uma estrutura de gestão de projetos que depende de 
+tarefas visuais para gerenciar fluxos de trabalho, enquanto o scrum 
+é uma estrutura de gestão de projetos que ajuda as equipes a 
+estruturar e gerenciar o trabalho por meio de um conjunto de valores, 
+princípios e práticas.
+
+5 - Quais métricas do Kanban podemos aplicar no projeto:
+Tempo de Lead e tempo de Ciclo são duas das métricas Kanban mais importantes e úteis. 
+Elas podem ajudá-lo a entender quanto tempo os itens de trabalho 
+passarão no seu fluxo de trabalho até que sejam concluídos.
+
+
+6 - Descreva os principais componentes do SCRUM:
+Os papéis: Scrum Master, Product Owner e a Equipe de Desenvolvimento Scrum;
+Os eventos: planejamento, stand-up diário, revisão de sprint e retrospectiva de sprint;
+Os artefatos: lista de pendências de sprint, lista de pendências do produto, 
+gráfico de burndown, log, etc
