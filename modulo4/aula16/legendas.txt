@@ -1,0 +1,12 @@
+Passengerid: ID do passageiro do navio (código primário).
+Survived: Se sobreviveu ao naufrágio estará como 1 e caso esteja com 0 (zero) não sobreviveu.
+Pclass: Tipo de classe de passagem (Do 1 ao 3), sendo 1 a melhor classe e 3 a pior classe.
+Name: Nome do passageiro
+Sex: Gênero do passageiro, sendo masculino e feminino.
+Age: Idade do passageiro na data da ocorrência do naufrágio.
+SibSp: Número de irmãos / cônjuges a bordo.
+Parch: Número de pais / filhos a bordo.
+Ticket: Código do ticket.
+Fare: Valor da passagem.
+Cabin: Código de identificação da Cabine.
+Embarked: Local onde o passageiro embarcou no navio.
